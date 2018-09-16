@@ -1,6 +1,6 @@
 # java-reference_from_static_to_non-static
 I had many trouble how to refer from static method to a non static one, beacuse the static one can't refer with <code>this</code>
-The best resolution what I found was here: https://learn-java-by-example.com/java/fix-cannot-static-reference-non-static-method/
+The best solution what I found was here: https://learn-java-by-example.com/java/fix-cannot-static-reference-non-static-method/
 <h2>
  Will not compile
 </h2>
